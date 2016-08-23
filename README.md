@@ -2,7 +2,8 @@
 A docker container containing the Brother P-touch series labelling software blabel. This container was created because blabel clashes with shutter. By running blabel in a container, you can have shutter installed and still use blabel.
 
 ## Build it
-```docker build -t realflash/blabel:latest
+```
+docker build -t realflash/blabel:latest
 ```
 
 ## Create instance
