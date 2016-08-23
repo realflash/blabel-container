@@ -7,7 +7,7 @@ docker build -t realflash/blabel:latest
 ```
 
 ## Create instance
-Set up your printer according to the instructions at [the blable site](http://apz.fi/blabel/) then
+Set up your printer according to the instructions at [the blabel site](http://apz.fi/blabel/) then
 
 ```
 xhost local:root
